@@ -1,25 +1,30 @@
 # Davidsantos-dev.github.io
-# Olá, Mundo!
+<h1 align="left">Hey 👋 What's up?</h1>
 
-👋 Este é meu primeiro projeto desenvolvido na faculdade de Engenharia de Software.
+###
 
-## 🎯 Objetivo
-Aplicar os primeiros conceitos de lógica de programação e compreender
-a estrutura básica de um programa.
+<p align="left">Meu nome é David Santos e eu sou estudante de Engenharia de Software, iniciando minha jornada no mundo da programação.</p>
 
-## 🧠 O que eu aprendi
-- Estrutura inicial de um programa
-- Como exibir mensagens na tela
-- Primeiro contato com lógica de programação
-- Como subir um projeto no GitHub
+###
 
-## 🚀 Tecnologias
-- Linguagem utilizada na disciplina
+<h2 align="left">About me</h2>
 
-## 📈 Próximos passos
-- Aprender variáveis
-- Trabalhar com entrada de dados
-- Evoluir para programas simples
+###
 
-## 📌 Observação
-Projeto simples, desenvolvido com foco total em aprendizado e evolução contínua.
+<p align="left">✨ Criando bugs desde: 2026<br>📘 Atualmente estou aprendendo: lógica de programação, HTML, CSS e JavaScript<br>🎯 Objetivos: conquistar um estágio na área de tecnologia e evoluir como desenvolvedor<br>🧠 Curiosidade: gosto de entender como as coisas funcionam por trás do código</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
