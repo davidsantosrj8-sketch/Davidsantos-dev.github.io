@@ -4,22 +4,22 @@
 👋 Este é meu primeiro projeto desenvolvido na faculdade de Engenharia de Software.
 
 ## 🎯 Objetivo
-O objetivo deste projeto é aplicar os primeiros conceitos de lógica de
-programação e entender a estrutura básica de um programa.
+Aplicar os primeiros conceitos de lógica de programação e compreender
+a estrutura básica de um programa.
 
 ## 🧠 O que eu aprendi
 - Estrutura inicial de um programa
 - Como exibir mensagens na tela
-- Primeiros passos com lógica de programação
-- Uso do GitHub para versionamento de código
+- Primeiro contato com lógica de programação
+- Como subir um projeto no GitHub
 
 ## 🚀 Tecnologias
 - Linguagem utilizada na disciplina
 
 ## 📈 Próximos passos
-- Aprender entrada de dados
-- Trabalhar com variáveis
-- Evoluir para pequenos programas
+- Aprender variáveis
+- Trabalhar com entrada de dados
+- Evoluir para programas simples
 
 ## 📌 Observação
-Projeto simples, com foco total em aprendizado e evolução contínua.
+Projeto simples, desenvolvido com foco total em aprendizado e evolução contínua.
