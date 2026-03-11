@@ -1,3 +1,4 @@
+![Super Trunfo](capa.png)
 # 🎮 Super Trunfo em C
 
 Projeto simples desenvolvido em **linguagem C** para cadastrar cartas do jogo Super Trunfo.
